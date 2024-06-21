@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sana-rekbi
-- 👀 I’m interested in exploring new technologies and web development, and game design.
+- 👀 I’m interested in exploring new technologies, web development, and game design.
 - 🌱 I'm currently exploring natural language processing projects as part of my journey in learning AI and machine learning. My focus includes developing skills in building models for sentiment analysis, language translation, and text generation. I am particularly interested in applying deep learning techniques such as recurrent neural networks (RNNs) and transformer models like BERT and GPT for natural language understanding and generation tasks..
 - 📫 How to reach me? you can reach me through email rekbisana23@outlook.fr or on my portfolio website
 - 😄 Pronouns: She/her
