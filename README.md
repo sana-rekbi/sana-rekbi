@@ -4,7 +4,7 @@
 - 📫 How to reach me? you can reach me through email rekbisana23@outlook.fr or through my portfolio website
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I play guitar and can speak 3 languages fluently.
-- 😎 here is my portfolio website : https://myresponsiveportfoliowebsite.000webhostapp.com/index.html
+- 😎 Here is my portfolio website : https://myresponsiveportfoliowebsite.000webhostapp.com/index.html
   
 <!---
 sana-rekbi/sana-rekbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
