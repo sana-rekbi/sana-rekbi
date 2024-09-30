@@ -42,8 +42,12 @@
 - **NLP Projects**
   - **Sentiment Analysis Using BERT** - [View Repository](#)  
     Built a custom **BERT-based model** for sentiment classification, achieving high accuracy in emotion detection.
-  - **Language Translation with Transformers** - [View Repository](#)  
-    Fine-tuned a **Transformer model** for translating Arabic dialects into Modern Standard Arabic using the **PADIC dataset**.
+
+    
+- **Intelligent Chatbot for E-commerce Websites** - [View Repository](#)  
+  Created an **NLP-driven chatbot** using **Dialogflow** and **BERT** to assist with product searches, personalized recommendations, and customer service tasks (order tracking, FAQs). The chatbot is integrated into a **React-based front-end** for real-time user interaction, leveraging APIs to access product data and enhance the shopping experience.
+
+
 
 ## 🛠️ Tools and Frameworks
 - **Deep Learning**: TensorFlow, PyTorch, Hugging Face Transformers
