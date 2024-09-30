@@ -40,14 +40,11 @@
     A full-stack **Node.js** and **React** application that implements a user-friendly e-commerce experience.
 
 - **NLP Projects**
-  - **Sentiment Analysis Using BERT** - [View Repository](#)  
-    Built a custom **BERT-based model** for sentiment classification, achieving high accuracy in emotion detection.
+  - **Sentiment Analysis with BERT** - [View Repository](#)  
+    Developed a custom **BERT-based model** for sentiment classification on large datasets. The model accurately identifies emotions in text, including positive, negative, and neutral sentiments, with optimized performance using fine-tuning techniques.
 
-    
-- **Intelligent Chatbot for E-commerce Websites** - [View Repository](#)  
-  Created an **NLP-driven chatbot** using **Dialogflow** and **BERT** to assist with product searches, personalized recommendations, and customer service tasks (order tracking, FAQs). The chatbot is integrated into a **React-based front-end** for real-time user interaction, leveraging APIs to access product data and enhance the shopping experience.
-
-
+  - **Intelligent Chatbot for E-commerce** - [View Repository](#)  
+    Built an **NLP-powered chatbot** using **Dialogflow** and **BERT** to enhance the customer experience on e-commerce platforms. The chatbot provides product search assistance, personalized recommendations, and manages customer inquiries (order tracking, FAQs). It is seamlessly integrated into a **React front-end** for real-time interaction, using APIs to handle product data and improve user engagement.
 
 ## 🛠️ Tools and Frameworks
 - **Deep Learning**: TensorFlow, PyTorch, Hugging Face Transformers
