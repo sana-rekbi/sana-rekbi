@@ -38,13 +38,18 @@
     Built using **React.js**, this website showcases my **front-end development** skills and projects in **AI** and **Web Development**.
   - **E-commerce Platform** - [View Repository](#)  
     A full-stack **Node.js** and **React** application that implements a user-friendly e-commerce experience.
-
 - **NLP Projects**
-  - **Sentiment Analysis with BERT** - [View Repository](#)  
-    Developed a custom **BERT-based model** for sentiment classification on large datasets. The model accurately identifies emotions in text, including positive, negative, and neutral sentiments, with optimized performance using fine-tuning techniques.
+  - **Sentiment Analysis with Twitter Data** - [View Repository](https://github.com/sana-rekbi/Twitter-Sentiment-Analysis-)  
+    Developed a custom model for sentiment classification on large datasets from Twitter. The model accurately identifies emotions in text, including positive, negative, and neutral sentiments, using machine learning techniques for optimization.
 
-  - **Intelligent Chatbot for E-commerce** - [View Repository](#)  
-    Built an **NLP-powered chatbot** using **Dialogflow** and **BERT** to enhance the customer experience on e-commerce platforms. The chatbot provides product search assistance, personalized recommendations, and manages customer inquiries (order tracking, FAQs). It is seamlessly integrated into a **React front-end** for real-time interaction, using APIs to handle product data and improve user engagement.
+  - **Intelligent Chatbot for E-commerce** - [View Repository](https://github.com/sana-rekbi/ChatI_IA_App)  
+    Built an **NLP-powered chatbot**,  The chatbot provides product search assistance, personalized recommendations, and manages customer inquiries (order tracking, FAQs). It is seamlessly integrated into a **React front-end** for real-time interaction, using APIs to handle product data and improve user engagement.
+
+  - **Text Summarizer NLP Project** - [View Repository](https://github.com/sana-rekbi/Text-Summarizer-NLP-project)  
+    Created an NLP-based text summarization tool using transformer models to generate concise summaries of long-form content. This project focuses on optimizing the balance between preserving meaning and brevity, ensuring relevance in the generated summaries.
+
+ - **AI-powered Email Client** - [View Repository](https://github.com/sana-rekbi/IA-powered-client-email)  
+    Developed a full-stack **AI-powered email client** with **NextJS** and **OpenAI** for automatic email composition. The app allows users to draft emails using AI suggestions, with an intuitive UI powered by **Tailwind CSS** and backend integration for managing emails and handling user requests. *(Not finished yet)*
 
 ## 🛠️ Tools and Frameworks
 - **Deep Learning**: TensorFlow, PyTorch, Hugging Face Transformers
