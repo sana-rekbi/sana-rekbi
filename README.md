@@ -6,8 +6,8 @@
 ## 👩‍💻 About Me
 
 - 🔭 **Currently working on**: Exploring **NLP projects** with a focus on **deep learning models** like BERT, GPT for **text generation**, and **language translation**.
-- 🌱 **Currently learning**: Advanced **Machine Learning** techniques, **Natural Language Processing**, and **Web Development** (React, Node.js).
-- 💬 **Ask me about**: Anything related to **NLP**, **AI**, **Deep Learning**, or **Web Development**.
+- 🌱 **Currently learning**: Advanced **Machine Learning**, **Natural Language Processing**, and **Computer Vision** techniques. I am exploring tools like **OpenCV**, **TensorFlow**, and **PyTorch** for tasks like **image recognition** and **object detection**.
+- 💬 **Ask me about**: Anything related to **NLP**, **AI**, **Deep Learning**, **Computer Vision**, or **Web Development**.
 - 👀 **I'm interested in**: Creating intelligent software systems and building interactive, user-friendly **web applications**.
 
 ## ⚡ Tech Stack
@@ -22,6 +22,16 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### **Computer Vision (In Progress)**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+- **Tools for Computer Vision**:  
+  - **OpenCV**: Used for real-time image processing and computer vision tasks.
+  - **TensorFlow & PyTorch**: Frameworks for developing deep learning models in computer vision such as **image classification**, **object detection**, and **image segmentation**.
+  - **Keras**: For prototyping and building computer vision models with deep learning.
 
 ### **Other Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,11 +58,12 @@
   - **Text Summarizer NLP Project** - [View Repository](https://github.com/sana-rekbi/Text-Summarizer-NLP-project)  
     Created an NLP-based text summarization tool using transformer models to generate concise summaries of long-form content. This project focuses on optimizing the balance between preserving meaning and brevity, ensuring relevance in the generated summaries.
 
- - **AI-powered Email Client** - [View Repository](https://github.com/sana-rekbi/IA-powered-client-email)  
+  - **AI-powered Email Client** - [View Repository](https://github.com/sana-rekbi/IA-powered-client-email)  
     Developed a full-stack **AI-powered email client** with **NextJS** and **OpenAI** for automatic email composition. The app allows users to draft emails using AI suggestions, with an intuitive UI powered by **Tailwind CSS** and backend integration for managing emails and handling user requests. *(Not finished yet)*
 
 ## 🛠️ Tools and Frameworks
 - **Deep Learning**: TensorFlow, PyTorch, Hugging Face Transformers
+- **Computer Vision (In Progress)**: OpenCV, TensorFlow, PyTorch
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Back-end**: Django, Flask
@@ -66,9 +77,5 @@
 ## ⚡ Fun Facts
 - 🎮 When I’m not coding, I love exploring **game design** and building small, interactive games.
 - 💡 I’m fascinated by **AI ethics** and the intersection of **technology and human interaction**.
-
-
-
-
 
 
