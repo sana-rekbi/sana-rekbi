@@ -9,8 +9,20 @@
 - 🌱 **Currently learning**: Advanced **Machine Learning**, **Natural Language Processing**, and **Computer Vision** techniques. I am exploring tools like **OpenCV**, **TensorFlow**, and **PyTorch** for tasks like **image recognition** and **object detection**.
 - 💬 **Ask me about**: Anything related to **NLP**, **AI**, **Deep Learning**, **Computer Vision**, or **Web Development**.
 - 👀 **I'm interested in**: Creating intelligent software systems and building interactive, user-friendly **web applications**.
+- 💻 **Experience**: Worked extensively in **software development** using **Java**, **C++**, **Python**, and other technologies. Developed various **NLP**, **AI**, and **web development** projects.
 
 ## ⚡ Tech Stack
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,12 +30,12 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### **Artificial Intelligence & NLP (In Progress)**
+### **Artificial Intelligence & NLP**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### **Computer Vision (In Progress)**
+### **Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -40,7 +52,7 @@
 
 ## 🔥 GitHub Stats
 ![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sana-rekbi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sana-rekbi&layout=compact&theme=radical)](https://github.com/sana-rekbi/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sana-rekbi&langs_count=10&layout=compact&theme=radical)](https://github.com/sana-rekbi/github-readme-stats)
 
 ## 🚀 Projects
 - **Web Development**
@@ -63,7 +75,7 @@
 
 ## 🛠️ Tools and Frameworks
 - **Deep Learning**: TensorFlow, PyTorch, Hugging Face Transformers
-- **Computer Vision (In Progress)**: OpenCV, TensorFlow, PyTorch
+- **Computer Vision**: OpenCV, TensorFlow, PyTorch
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Back-end**: Django, Flask
@@ -77,5 +89,4 @@
 ## ⚡ Fun Facts
 - 🎮 When I’m not coding, I love exploring **game design** and building small, interactive games.
 - 💡 I’m fascinated by **AI ethics** and the intersection of **technology and human interaction**.
-
 
