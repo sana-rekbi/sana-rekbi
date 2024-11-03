@@ -32,12 +32,10 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **MERN Stack**: Expérience en développement full-stack avec **MongoDB**, **Express.js**, **React**, et **Node.js**.
-  - **Front-end** : Développement d’interfaces dynamiques et interactives avec **React** et gestion de l'état avec **Redux**.
-  - **Back-end** : Création d'API RESTful avec **Node.js** et **Express.js** pour des applications robustes et sécurisées.
-  - **Database** : Maîtrise de **MongoDB** pour la gestion de données NoSQL, avec l’utilisation de **Mongoose** pour faciliter les opérations de base de données.
-
-
+- **MERN Stack**: Full-stack development experience with **MongoDB**, **Express.js**, **React**, and **Node.js**.
+  - **Front-end**: Developed dynamic and interactive user interfaces with **React**, utilizing **Redux** for state management.
+  - **Back-end**: Built robust and secure RESTful APIs with **Node.js** and **Express.js**.
+  - **Database**: Proficient in **MongoDB** for NoSQL data management, using **Mongoose** to streamline database operations.
 
 ### **Artificial Intelligence & NLP**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
