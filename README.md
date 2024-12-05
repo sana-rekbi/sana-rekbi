@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Sana Rekbi (@sana-rekbi)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sana-rekbi&color=blueviolet)
+![Profile Views](https://lustrous-alpaca-ca865c.netlify.app/index.html)
 [![GitHub followers](https://img.shields.io/github/followers/sana-rekbi.svg?style=social&label=Follow)](https://github.com/sana-rekbi?tab=followers)
 
 ## 👩‍💻 About Me
@@ -91,7 +91,7 @@
 
 ## 📫 How to reach me?
 - 📧 Email: [rekbisana23@outlook.fr](mailto:rekbisana23@outlook.fr)
-- 🌐 Portfolio: [Visit my website](https://superb-smakager-b9344f.netlify.app/#home)
+- 🌐 Portfolio: [Visit my website](https://lustrous-alpaca-ca865c.netlify.app/index.html)
 
 ## ⚡ Fun Facts
 - 🎮 When I’m not coding, I love exploring **game design** and building small, interactive games.
