@@ -1,63 +1,91 @@
 # 👋 Hi there! I'm Sana Rekbi (@sana-rekbi)
 
+![Profile Views](https://lustrous-alpaca-ca865c.netlify.app/index.html)
 [![GitHub followers](https://img.shields.io/github/followers/sana-rekbi.svg?style=social&label=Follow)](https://github.com/sana-rekbi?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=sana-rekbi&color=blue)](https://github.com/sana-rekbi)
 
-## 👩‍💻 About Me
+<h3 align="center"> 🎯 Software Engineer | 🧩 Master of Science in Computer Science & NLP <br> 💻 Passionate about AI, NLP, and Software Development!</h3>
 
-- 🔭 **Currently working on**: **NLP projects** with a focus on **deep learning models** like BERT and GPT for **text generation** and **language translation**.
-- 🌱 **Currently learning**: Advanced **Machine Learning**, **NLP**, and **Computer Vision**, exploring tools like **OpenCV**, **TensorFlow**, and **PyTorch**.
-- 💬 **Ask me about**: **NLP**, **AI**, **Deep Learning**, **Computer Vision**, or **Web Development**.
-- 🌍 **Dual Expertise**: IT (Informatics & Management) and Artificial Intelligence.
-- 💻 **Experience**: Proficient in **Java**, **C++**, **Python**, and **web development**. Developed various projects in **AI**, **NLP**, and **full-stack web development**.
+<div align="center">
+    <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api?username=sana-rekbi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+    <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-rekbi&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-## ⚡ Tech Stack
+---
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ✨ About Me
+- 🔭 **Currently working on**: Exploring **NLP projects**, including **deep learning models** like BERT and GPT for **text generation** and **language translation**.
+- 🌱 **Currently learning**: Advanced **Machine Learning**, **NLP**, and **Computer Vision** techniques using **TensorFlow**, **PyTorch**, and **OpenCV**.
+- 🌍 **Dual Expertise**: **IT (Informatics & Management)** and **Artificial Intelligence**.
+- 💻 **Experience**: Proficient in **Java**, **C++**, **Python**, and **full-stack web development**. Developed projects in **AI**, **NLP**, and **software systems**.
+- 👀 **Interests**: Creating intelligent software systems and building interactive, user-friendly **web applications**.
+- 💬 **Ask me about**: **AI**, **NLP**, **Deep Learning**, or **Web Development**.
 
-### **Web Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-### **AI & NLP**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+## 💻 My Tech Stack
 
-### **Other Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<table border="0" align="center" width="100%">
+    <tr>
+        <td valign="top" width="33%">
+            <h3 align="center">Languages</h3>
+            <div align="center">
+                <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/></a>
+                <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/></a>
+                <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50"/></a>
+                <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></a>
+                <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/></a>
+                <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/></a>
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <h3 align="center">Frameworks</h3>
+            <div align="center">
+                <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/></a>
+                <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/></a>
+                <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50"/></a>
+                <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/></a>
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <h3 align="center">AI Tools</h3>
+            <div align="center">
+                <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50"/></a>
+                <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50"/></a>
+                <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50"/></a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+---
 
 ## 🚀 Featured Projects
-
 - **[Sentiment Analysis with Twitter Data](https://github.com/sana-rekbi/Twitter-Sentiment-Analysis-)**  
-  Developed a model for classifying sentiments (positive, negative, neutral) using large Twitter datasets, optimized with machine learning techniques.
-
+  Built a machine learning model to analyze sentiments in tweets, accurately classifying them as positive, negative, or neutral.
+  
 - **[Intelligent Chatbot for E-commerce](https://github.com/sana-rekbi/ChatI_IA_App)**  
-  Built an **NLP-powered chatbot** integrated into a **React front-end**, providing real-time product recommendations, search assistance, and customer support.
+  Designed an NLP-powered chatbot integrated into a React front-end for real-time product recommendations and customer assistance.
 
 - **[Text Summarizer NLP Project](https://github.com/sana-rekbi/Text-Summarizer-NLP-project)**  
-  Created a tool to generate concise summaries from long-form text using transformer models, balancing brevity and relevance.
+  Developed a tool for summarizing large texts using transformer models, ensuring concise and relevant summaries.
 
-- **[AI-powered Email Client](https://github.com/sana-rekbi/IA-powered-client-email)** *(In progress)*  
-  Full-stack email client using **NextJS** and **OpenAI** for automatic email composition, with an intuitive UI powered by **Tailwind CSS**.
+---
 
-## 🔥 GitHub Stats
-![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sana-rekbi&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sana-rekbi&layout=compact&theme=radical)](https://github.com/sana-rekbi)
+## 🔥 More Stats
+<div align="center">
+    <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=sana-rekbi&theme=radical" alt="Streak Stats" />
+    <img align="center" width="44%" src="https://github-profile-trophy.vercel.app/?username=sana-rekbi&theme=radical&margin-w=4" alt="Trophies" />
+</div>
 
-## 📫 How to Reach Me
+---
+
+## 📫 How to Reach Me?
 - 📧 Email: [rekbisana23@outlook.fr](mailto:rekbisana23@outlook.fr)
 - 🌐 Portfolio: [Visit my website](https://lustrous-alpaca-ca865c.netlify.app/index.html)
 
+---
+
 ## 🌟 Fun Facts
-- 🎮 Passionate about **game design** and building interactive games.
-- 🤖 Fascinated by **AI ethics** and its role in human interaction.
+- 🎮 Passionate about **game design** and creating interactive games.
+- 🤖 Fascinated by **AI ethics** and its impact on human-computer interaction.
 
