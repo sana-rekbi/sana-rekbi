@@ -1,14 +1,10 @@
 # 👋 Hi there! I'm Sana Rekbi (@sana-rekbi)
 
+
 ![Profile Views](https://lustrous-alpaca-ca865c.netlify.app/index.html)
 [![GitHub followers](https://img.shields.io/github/followers/sana-rekbi.svg?style=social&label=Follow)](https://github.com/sana-rekbi?tab=followers)
 
 <h3 align="center"> 🎯 Software Engineer | 🧩 Master of Science in Computer Science & NLP <br> 💻 Passionate about AI, NLP, and Software Development!</h3>
-
-<div align="center">
-    <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api?username=sana-rekbi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-    <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-rekbi&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
@@ -23,6 +19,15 @@
 ---
 
 ## 💻 My Tech Stack
+
+### 🛠️ Tools and Frameworks
+- **Deep Learning**: TensorFlow, PyTorch, Hugging Face Transformers
+- **Computer Vision**: OpenCV, TensorFlow, PyTorch
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js
+- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Back-end**: Django, Flask
+- **Database**: MongoDB, PostgreSQL, SQLite
+- **Cloud Platforms**: Google Cloud, AWS
 
 <table border="0" align="center" width="100%">
     <tr>
@@ -68,14 +73,6 @@
 
 - **[Text Summarizer NLP Project](https://github.com/sana-rekbi/Text-Summarizer-NLP-project)**  
   Developed a tool for summarizing large texts using transformer models, ensuring concise and relevant summaries.
-
----
-
-## 🔥 More Stats
-<div align="center">
-    <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=sana-rekbi&theme=radical" alt="Streak Stats" />
-    <img align="center" width="44%" src="https://github-profile-trophy.vercel.app/?username=sana-rekbi&theme=radical&margin-w=4" alt="Trophies" />
-</div>
 
 ---
 
