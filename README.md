@@ -92,7 +92,7 @@
 ## 📫 How to Reach Me?  
 
 - 📧 Email: [rekbisana23@outlook.fr](mailto:rekbisana23@outlook.fr)  
-- 🌐 Portfolio: [Visit my website]([https://lustrous-alpaca-ca865c.netlify.app/index.html](https://scintillating-longma-00185b.netlify.app))  
+- 🌐 Portfolio: [Visit my website](https://scintillating-longma-00185b.netlify.app)
 
 ---
 
