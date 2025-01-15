@@ -8,7 +8,7 @@
 
 ## ✨ In a Nutshell  
 - 🎓 **Pursuing Master of Science in Computer Science & NLP**.
-- 🌍 **Dual Expertise**: **IT (Informatics & Management)** and **Artificial Intelligence**.  
+- 🌍 **Dual Expertise**: **IT** and **Artificial Intelligence**.  
 - 💻 **Experience**: Proficient in **Java**, **C++**, **Python**, and **MERN Stack Development**.  
 - 🔭 **Currently Working On**:  
    - **NLP Projects**: Exploring **BERT**, **GPT**, and **Transformer-based models** for **text generation** and **language translation**.  
