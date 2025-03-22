@@ -77,10 +77,6 @@
 - **[Medical Recommendation System with Machine Learning](https://github.com/sana-rekbi/Medical-Recommendation-System-with-Machine-Learning)**  
    
    This system accurately predicts potential health conditions and provides customized recommendations
-
-- **[Sentiment Analysis with Twitter Data](https://github.com/sana-rekbi/Twitter-Sentiment-Analysis-)**  
-   Built a machine learning model to analyze sentiments in tweets, classifying them as positive, negative, or neutral.
-
 - **[Intelligent Chatbot for E-commerce](https://github.com/sana-rekbi/ChatI_IA_App)**  
    Designed an **NLP-powered chatbot** integrated into a React front-end for real-time product recommendations and customer assistance.
 
